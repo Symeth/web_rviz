@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "dependencies": {
       "connect": "*",
-      "static-serve": "*"
+      "serve-static": "*"
     }
-  }
+}
