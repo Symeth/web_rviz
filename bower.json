@@ -1,0 +1,20 @@
+{
+  "name": "web_reviz",
+  "description": "RVIZ on web",
+  "main": "",
+  "authors": [
+    "grassjelly"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/grassjelly/web_rviz",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ros-rviz": "jstnhuang/ros-rviz#^3.1.1"
+  }
+}
